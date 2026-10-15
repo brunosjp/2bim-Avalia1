@@ -1,0 +1,6 @@
+# Nunca versionar segredos nem arquivos locais do wrangler
+.env
+.env.*
+.dev.vars
+.wrangler/
+node_modules/
