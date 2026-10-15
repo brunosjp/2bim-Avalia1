@@ -3,7 +3,7 @@
 // Quem desenha e assina e a Pages Function em /api/desenho.
 
 // Client ID publico do OAuth Client (Web application). Nao e segredo.
-const GOOGLE_CLIENT_ID = "COLOQUE_AQUI_O_CLIENT_ID.apps.googleusercontent.com";
+const GOOGLE_CLIENT_ID = "836552168566-1gas52v6ropt5qd8q54tmccn4vbgevvi.apps.googleusercontent.com";
 
 const formulario = document.getElementById("formulario");
 const campoNumero = document.getElementById("numero");
