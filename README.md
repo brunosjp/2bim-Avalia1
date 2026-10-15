@@ -31,4 +31,4 @@ Variável de ambiente: `GOOGLE_CLIENT_ID` com o Client ID do OAuth Client (Web a
 
 Nome: Bruno Augusto
 RA: 2026107709
-URL: https://
+URL: https://desenho-assinado-bruno.pages.dev
